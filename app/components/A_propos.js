@@ -1,4 +1,5 @@
 import React, { useEffect } from "react"
+import Brand from "./Brand"
 
 function A_propos() {
   window.scrollTo({
@@ -63,6 +64,7 @@ function A_propos() {
           </div>
         </div>
       </section>
+      <Brand />
     </>
   )
 }

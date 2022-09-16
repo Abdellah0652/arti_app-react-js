@@ -35,6 +35,19 @@ body {
   width: 100%;
   font-family: "Raleway", sans-serif;
 }
+#Lnk {
+  position: relative;
+  left: 80px !important;
+}
+.content {
+  position: absolute;
+  top: 100px !important;
+  left: 50px;
+}
+#brand {
+  position: relative;
+  top: -90px !important;
+}
 #foot {
   position: fixed;
   padding: 10px 10px 0px 10px;

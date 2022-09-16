@@ -1,6 +1,8 @@
 import React, { useEffect } from "react"
 
 function Brand() {
+  window.scrollTo(10, 0)
+
   return (
     <>
       <section id="brand" className="brand fix roomy-80">

@@ -28,7 +28,7 @@ function Header() {
             </li>
 
             <li>
-              <Link to="/Brand">Brand</Link>
+              <Link to="/ContactPro">Contacter-nous</Link>
             </li>
           </ul>
         </div>
