@@ -38,11 +38,11 @@ function ContactQuest() {
                       <label>
                         {" "}
                         Avez-vous un cahier de charge? <br />
-                        <input type="radio" name="cahier_charge" />
+                        <input type="radio" value="Yes" name="cahier_charge" />
                         Yes
                       </label>
                       <label>
-                        <input type="radio" name="cahier_charge" />
+                        <input type="radio" value="No" name="cahier_charge" />
                         No
                       </label>
                     </div>
